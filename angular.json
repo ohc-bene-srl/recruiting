@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "recruiting"
+  "defaultProject": "recruiting",
+  "cli": {
+    "analytics": false
+  }
 }
